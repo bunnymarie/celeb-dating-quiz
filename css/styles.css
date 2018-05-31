@@ -19,3 +19,15 @@ h3 {
   font-size: 30px;
   text-decoration: underline;
 }
+
+#mccain-showing {
+  display: none;
+}
+
+#gore-showing{
+  display: none;
+}
+
+#supreme-showing{
+  display: none;
+}
